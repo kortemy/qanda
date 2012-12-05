@@ -1,0 +1,106 @@
+10
+
+dir
+2
+https://qanda-clojure.googlecode.com/svn/trunk/qanda
+https://qanda-clojure.googlecode.com/svn
+
+
+
+2012-08-31T14:23:50.847105Z
+2
+nob.venoda@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7d265363-ffd8-ef8c-211e-76df8e8e7de4
+
+
+
+
+
+
+
+immediates
+
+test
+dir
+
+
+
+add
+
+.classpath
+file
+0
+
+
+add
+
+.project
+file
+0
+
+
+add
+
+.gitignore
+file
+0
+
+
+add
+
+target
+dir
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+resources
+dir
+
+
+
+add
+
+README.md
+file
+0
+
+
+add
+
+project.clj
+file
+0
+
+
+add
+
+.settings
+dir
+
+
+
+add
+
